@@ -32,7 +32,7 @@ const Join = () => {
           to={`/chat?name=${name}&room=${room}`}
         >
           <button className="button mt-20" type="submit">
-            Sing In
+            Sign In
           </button>
         </Link>
       </div>

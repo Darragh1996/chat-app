@@ -4,7 +4,7 @@ import io from "socket.io-client";
 
 import InfoBar from "../InfoBar/InfoBar.js";
 import Input from "../Input/Input.js";
-import Message from "../Messages/Messages.js";
+import Messages from "../Messages/Messages.js";
 
 import "./Chat.css";
 
